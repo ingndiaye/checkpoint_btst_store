@@ -1,0 +1,60 @@
+.content{
+    position: relative;
+}
+.entete{
+    height: 500px;
+    padding: 2%; 
+    margin-top: 10%;  
+}
+.entete1{
+    height: 96%;
+    align-items: center;   
+}
+.imgmarque{
+    height: 96%;
+    align-items: center;  
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.entete2{
+    height: 96%;
+    align-items: center;
+    position: relative; 
+    
+    padding: 2%;
+}
+.lehero{ 
+    height: 95%;   
+    position: relative;  
+    top: 10%   
+}
+
+.herodesc {
+    position: relative; 
+    color: white;
+    text-align: center;   
+    font-family: 'Courier New', Courier, monospace; 
+} 
+.imagemrqsize{
+    width: 80px;
+    height: 50px;
+}
+#marque{
+    height: 80px;
+}
+.txtcard{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace; 
+}
+.textapropos{
+    text-align: left;
+    font-family:'Courier New', Courier, monospace; 
+}
+h6{
+    color: blue;
+}
+.carte:hover{    
+    box-shadow: 0 0 10px; 
+    border: 2px solid red;
+
+}
