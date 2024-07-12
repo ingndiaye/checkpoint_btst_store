@@ -54,7 +54,6 @@ h6{
     color: blue;
 }
 .carte:hover{    
-    box-shadow: 0 0 10px; 
-    border: 2px solid red;
-
+    box-shadow: 0 5px 10px; 
+    border: 2px solid red; 
 }
